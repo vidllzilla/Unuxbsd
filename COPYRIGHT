@@ -1,126 +1,39 @@
-# $FreeBSD$
-# @(#)COPYRIGHT	8.2 (Berkeley) 3/21/94
+CUN License
 
-The compilation of software known as FreeBSD is distributed under the
-following terms:
+Version 2.0
 
-Copyright (c) 1992-2020 The FreeBSD Project.
+Copyright (c) 2026 VidllQ Authority. All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
+This License applies only to the original source code, software, documentation, artwork, design assets, configuration files, build scripts, and other original works created and copyrighted by VidllQ Authority, unless otherwise expressly stated.
 
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGE.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software and its associated documentation files (the "Software"), to use, study, execute, compile, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, in source or binary form, subject to the conditions set forth in this License.
 
-The 4.4BSD and 4.4BSD-Lite software is distributed under the following
-terms:
+Redistributions of source code must retain this copyright notice, this License, and the disclaimer below.
 
-All of the documentation and software included in the 4.4BSD and 4.4BSD-Lite
-Releases is copyrighted by The Regents of the University of California.
+Redistributions in binary form must reproduce this copyright notice, this License, and the disclaimer in the documentation and/or other materials provided with the distribution.
 
-Copyright 1979, 1980, 1983, 1986, 1988, 1989, 1991, 1992, 1993, 1994
-	The Regents of the University of California.  All rights reserved.
+Modified versions of the Software must clearly indicate that changes have been made and must not falsely represent themselves as the original Software released by VidllQ Authority.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-3. All advertising materials mentioning features or use of this software
-   must display the following acknowledgement:
-This product includes software developed by the University of
-California, Berkeley and its contributors.
-4. Neither the name of the University nor the names of its contributors
-   may be used to endorse or promote products derived from this software
-   without specific prior written permission.
+The names "VidllQ", "VidllQ Authority", "CUN", and any official project names, trademarks, service marks, logos, icons, branding, or other identifying marks owned by VidllQ Authority may not be used to endorse, advertise, promote, or imply sponsorship of derived products without prior written permission, except where necessary for truthful attribution, identification of origin, or compatibility statements.
 
-THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGE.
+This License applies only to the original works created by VidllQ Authority. Any third-party software, documentation, libraries, firmware, source code, or other materials distributed with the Software remain subject to their own copyright notices and license terms.
 
-The Institute of Electrical and Electronics Engineers and the American
-National Standards Committee X3, on Information Processing Systems have
-given us permission to reprint portions of their documentation.
+Where this Software incorporates, includes, or is derived from FreeBSD, BSD-licensed software, or any other third-party open source software, the original copyright notices, license texts, acknowledgements, attribution requirements, and other applicable license obligations shall remain intact and continue to apply to those respective portions of the Software.
 
-In the following statement, the phrase ``this text'' refers to portions
-of the system documentation.
+Nothing in this License grants permission to remove, alter, conceal, or misrepresent the copyright ownership, license notices, or attribution requirements of any third-party software included with the Software.
 
-Portions of this text are reprinted and reproduced in electronic form in
-the second BSD Networking Software Release, from IEEE Std 1003.1-1988, IEEE
-Standard Portable Operating System Interface for Computer Environments
-(POSIX), copyright C 1988 by the Institute of Electrical and Electronics
-Engineers, Inc.  In the event of any discrepancy between these versions
-and the original IEEE Standard, the original IEEE Standard is the referee
-document.
+No express or implied patent license is granted under this License, except to the extent such rights cannot be excluded under applicable law.
 
-In the following statement, the phrase ``This material'' refers to portions
-of the system documentation.
+Contributors retain ownership of their own copyrights unless they expressly agree otherwise in writing.
 
-This material is reproduced with permission from American National
-Standards Committee X3, on Information Processing Systems.  Computer and
-Business Equipment Manufacturers Association (CBEMA), 311 First St., NW,
-Suite 500, Washington, DC 20001-2178.  The developmental work of
-Programming Language C was completed by the X3J11 Technical Committee.
+Distribution of modified versions must not falsely imply that the modified Software has been reviewed, certified, approved, endorsed, or supported by VidllQ Authority.
 
-The views and conclusions contained in the software and documentation are
-those of the authors and should not be interpreted as representing official
-policies, either expressed or implied, of the Regents of the University
-of California.
+Commercial use, commercial distribution, commercial modification, and commercial sale of the original Software are permitted, provided that all conditions of this License are satisfied.
 
+Nothing in this License shall be interpreted as limiting, replacing, or modifying the rights and obligations granted under the licenses governing any third-party software distributed alongside or incorporated into the Software.
 
-NOTE: The copyright of UC Berkeley's Berkeley Software Distribution ("BSD")
-source has been updated.  The copyright addendum may be found at
-ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change and is
-included below.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. IN NO EVENT SHALL VIDLLQ AUTHORITY, ANY COPYRIGHT HOLDER, OR ANY CONTRIBUTOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA, PROFITS, BUSINESS INTERRUPTION, LOSS OF GOODWILL, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-July 22, 1999
+By exercising any rights granted under this License, including using, copying, modifying, compiling, distributing, sublicensing, selling, or otherwise making use of the original works covered by this License, you agree to comply with its terms and conditions.
 
-To All Licensees, Distributors of Any Version of BSD:
-
-As you know, certain of the Berkeley Software Distribution ("BSD") source
-code files require that further distributions of products containing all or
-portions of the software, acknowledge within their advertising materials
-that such products contain software developed by UC Berkeley and its
-contributors.
-
-Specifically, the provision reads:
-
-"     * 3. All advertising materials mentioning features or use of this software
-      *    must display the following acknowledgement:
-      *    This product includes software developed by the University of
-      *    California, Berkeley and its contributors."
-
-Effective immediately, licensees and distributors are no longer required to
-include the acknowledgement within advertising materials.  Accordingly, the
-foregoing paragraph of those BSD Unix files containing it is hereby deleted
-in its entirety.
-
-William Hoskins
-Director, Office of Technology Licensing
-University of California, Berkeley
+End of CUN License Version 2.0
