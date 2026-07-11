@@ -30,23 +30,23 @@ System and user commands.
 
 cddl
 
-Third-party software distributed under the Common Development and Distribution License (CDDL).
+Source code for third-party software under the Common Development and Distribution License (CDDL).
 
 contrib
 
-Imported third-party software.
+Source code for third-party software.
 
 crypto
 
-Cryptographic libraries and related utilities.
+Source code for cryptographic libraries and commands. See crypto/README for additional information.
 
 etc
 
-Template files for the /etc directory.
+Template files for /etc.
 
 gnu
 
-Third-party software distributed under the GPL or LGPL.
+Source code for third-party software under the GNU General Public License (GPL) or GNU Lesser General Public License (LGPL). See gnu/COPYING and gnu/COPYING.LIB for additional information.
 
 include
 
@@ -54,11 +54,11 @@ System header files.
 
 kerberos5
 
-Heimdal Kerberos build infrastructure.
+Build system for Kerberos 5 (Heimdal).
 
 krb5
 
-MIT Kerberos build infrastructure.
+Build system for Kerberos 5 (MIT).
 
 lib
 
@@ -66,7 +66,7 @@ System libraries.
 
 libexec
 
-Programs intended to be executed by other programs or system services.
+System commands intended to be executed by other commands or daemons.
 
 packages
 
@@ -74,52 +74,48 @@ Base system packages.
 
 release
 
-Build scripts and tools for producing system releases and images.
+Makefiles and scripts used to build releases and virtual machine images.
 
 rescue
 
-Build files for the statically linked /rescue utilities.
+Build system for statically linked /rescue commands.
 
 sbin
 
-System administration commands.
+System commands.
 
 secure
 
-Build infrastructure for cryptographic components, excluding Kerberos.
+Build system for cryptographic libraries and commands, excluding Kerberos.
 
 share
 
-Shared data, documentation, and resources.
+Shared resources.
 
 stand
 
-Boot loader source code.
+Boot loader sources.
 
 sys
 
-Kernel source code and platform-specific system components.
+Kernel source code. See sys/README.md for additional information.
 
 targets
 
-Support files for experimental DIRDEPS_BUILD.
+Support for experimental DIRDEPS_BUILD.
 
 tests
 
-Automated test suites.
+Test suites that can be run using Kyua. See tests/README for additional information.
 
 tools
 
-Development tools and utilities not included in the installed base system.
+Ancillary utilities and tests that are not included in the system build.
 
 usr.bin
 
-User-level command-line programs.
+User commands.
 
 usr.sbin
 
-System administration utilities.
-
-Additional directories may contain their own documentation, copyright notices, and license information.
-
-For project documentation, release information, and development updates, refer to the official UNUXBSD project resources.
+System administration commands.
