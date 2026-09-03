@@ -1,3 +1,42 @@
+CUN License
+
+Version 2.0
+
+Copyright (c) 2026 VidllQ Authority. All rights reserved.
+
+This License applies only to the original source code, software, documentation, artwork, design assets, configuration files, build scripts, and other original works created and copyrighted by VidllQ Authority, unless otherwise expressly stated.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software and its associated documentation files (the "Software"), to use, study, execute, compile, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, in source or binary form, subject to the conditions set forth in this License.
+
+Redistributions of source code must retain this copyright notice, this License, and the disclaimer below.
+
+Redistributions in binary form must reproduce this copyright notice, this License, and the disclaimer in the documentation and/or other materials provided with the distribution.
+
+Modified versions of the Software must clearly indicate that changes have been made and must not falsely represent themselves as the original Software released by VidllQ Authority.
+
+The names "VidllQ", "VidllQ Authority", "CUN", and any official project names, trademarks, service marks, logos, icons, branding, or other identifying marks owned by VidllQ Authority may not be used to endorse, advertise, promote, or imply sponsorship of derived products without prior written permission, except where necessary for truthful attribution, identification of origin, or compatibility statements.
+
+This License applies only to the original works created by VidllQ Authority. Any third-party software, documentation, libraries, firmware, source code, or other materials distributed with the Software remain subject to their own copyright notices and license terms.
+
+Where this Software incorporates, includes, or is derived from FreeBSD, BSD-licensed software, or any other third-party open source software, the original copyright notices, license texts, acknowledgements, attribution requirements, and other applicable license obligations shall remain intact and continue to apply to those respective portions of the Software.
+
+Nothing in this License grants permission to remove, alter, conceal, or misrepresent the copyright ownership, license notices, or attribution requirements of any third-party software included with the Software.
+
+No express or implied patent license is granted under this License, except to the extent such rights cannot be excluded under applicable law.
+
+Contributors retain ownership of their own copyrights unless they expressly agree otherwise in writing.
+
+Distribution of modified versions must not falsely imply that the modified Software has been reviewed, certified, approved, endorsed, or supported by VidllQ Authority.
+
+Commercial use, commercial distribution, commercial modification, and commercial sale of the original Software are permitted, provided that all conditions of this License are satisfied.
+
+Nothing in this License shall be interpreted as limiting, replacing, or modifying the rights and obligations granted under the licenses governing any third-party software distributed alongside or incorporated into the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. IN NO EVENT SHALL VIDLLQ AUTHORITY, ANY COPYRIGHT HOLDER, OR ANY CONTRIBUTOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA, PROFITS, BUSINESS INTERRUPTION, LOSS OF GOODWILL, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+By exercising any rights granted under this License, including using, copying, modifying, compiling, distributing, sublicensing, selling, or otherwise making use of the original works covered by this License, you agree to comply with its terms and conditions.
+
+End of CUN License Version 2.0
 # $FreeBSD$
 #	@(#)COPYRIGHT	8.2 (Berkeley) 3/21/94
 
